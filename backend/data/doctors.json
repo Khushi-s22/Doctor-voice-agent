@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Ananya Sharma",
+        "speciality": "Cardiologist",
+        "available_slots": [
+            "2026-11-25 02:00 PM",
+            "2026-11-25 10:00 AM"
+        ],
+        "slot_times": [
+            "02:00 PM",
+            "10:00 AM"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dr. Rahul Verma",
+        "speciality": "Dermatologist",
+        "available_slots": [
+            "2026-11-25 09:00 AM",
+            "2026-11-25 12:00 PM",
+            "2026-11-25 04:00 PM"
+        ],
+        "slot_times": [
+            "09:00 AM",
+            "12:00 PM",
+            "04:00 PM"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dr. Priya Mehta",
+        "speciality": "Neurologist",
+        "available_slots": [
+            "2026-11-25 10:30 AM",
+            "2026-11-25 01:00 PM",
+            "2026-11-25 03:00 PM"
+        ],
+        "slot_times": [
+            "10:30 AM",
+            "01:00 PM",
+            "03:00 PM"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "patient_name": "Khushi",
+        "phone_number": "1234567890",
+        "doctor_name": "Dr. Ananya Sharma",
+        "speciality": "Cardiologist",
+        "appointment_slot": "2026-11-25 11:00 AM"
+    },
+    {
+        "patient_name": "Krishi",
+        "phone_number": "1234567890",
+        "doctor_name": "Dr. Ananya Sharma",
+        "speciality": "Cardiologist",
+        "appointment_slot": "2026-12-03 02:00 PM"
+    }
+]
